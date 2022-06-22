@@ -1,2 +1,3 @@
 #!/bin/bash
-mv [A-Z]* /tmp/u
+export LC_ALL=C
+mv ./[A-Z]* /tmp/u
