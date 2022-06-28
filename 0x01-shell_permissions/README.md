@@ -1,1 +1,0 @@
-Relearning shell permissions
