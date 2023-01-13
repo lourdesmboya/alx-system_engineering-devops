@@ -1,1 +1,1 @@
-Practicing Debugging- Web Stack
+Web Stack Debugging
